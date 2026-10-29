@@ -60,6 +60,12 @@ Join our community:
 
 Read our [documentation](https://docs.mixpost.app/lite/) on how to get started.
 
+## One-Click Deploy
+
+<a href="https://repocloud.io/details/Mixpost/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/mixpost"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+<a href="https://elest.io/open-source/mixpost"><img src="https://elest.io/images/logos/deploy-to-elestio-btn.png" alt="Deploy on Elestio" height="42"></a>
+
 ## Changelog
 
 Please see [Releases](../../releases) for more information what has changed recently.
